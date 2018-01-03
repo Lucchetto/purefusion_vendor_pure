@@ -19,3 +19,6 @@ add_lunch_combo mido-eng
 add_lunch_combo z2_plus-userdebug
 add_lunch_combo z2_plus-user
 add_lunch_combo z2_plus-eng
+add_lunch_combo x2-userdebug
+add_lunch_combo x2-user
+add_lunch_combo x2-eng
